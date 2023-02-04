@@ -1,1 +1,1 @@
-java -jar OOPlab1Krylov.jar
+java -jar Lab1Krylov.jar
